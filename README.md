@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 👋 Introduction
 Hello, I'm Iman. Data Analyst with a passion for data analysis and reporting. <!--query optimization, database design, and data modelling.--> 
 - Querying data using SQL
-- Generate reports and perform ad-hoc data analysis using SQL
+- Generate reports and performing data analysis using SQL
 - Developing dashboards on Tableau and Power BI
 - Data analysis and reporting using Google Sheets and Excel
 
