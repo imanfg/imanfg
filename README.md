@@ -23,7 +23,7 @@ Hello, I'm Iman. Data Analyst with a passion for data analysis and reporting. <!
 
 ### 📚 Projects
  Welcome to my portfolio, where I showcase 
- [my projects.](https://public.tableau.com/app/profile/iman.f1527/vizzes)
+ [my projects.]([https://public.tableau.com/app/profile/iman.f1527/vizzes](https://github.com/imanfg/Data-Portfolio/blob/main/README.md))
 
 
 ### 🛠️Tools
