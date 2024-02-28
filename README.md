@@ -33,7 +33,7 @@ Hello, I'm Iman. Data Analyst with a passion for data analysis and reporting. <!
 
 
 ### 📫Connect with Me
-- [Linked](https://www.linkedin.com/in/iman-fatima-ghani/)        
+- [Linked](https://www.linkedin.com/in/imanfghani/)        
 
 
 <!--
